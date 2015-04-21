@@ -1,22 +1,18 @@
 # lrthw
-*Learn ruby the ~~hard~~ **wild** way !*
+*Learn ruby the ~~hard~~ __wild__ way !*
 
 ## Prérequis
 
 * un terminal unix (Linux ou OSX)
 * ruby installé (version 2.x ou plus), `ruby --version`
 * git installé, `git --version`
+* un éditeur de texte (sublime-text par exemple)
 
 ## Exercices
 
 1. Créer une copie de ce projet dans votre espace github en cliquant sur le bouton `Fork` en haut à droite de cette page.
-2. Télécharger VOTRE version du projet sur votre machine depuis le terminal : 
-
-```
-git clone https://github.com/VOTRE_IDENTIFIANT_GITHUB/lrthw
-```
-
-3. Réaliser les exercices disponibles sur [le site Learn Ruby the Hard Way](http://learnrubythehardway.org/book/) en ignorant l'Exercice 0
+2. Télécharger VOTRE version du projet sur votre machine depuis le terminal : `git clone https://github.com/VOTRE_IDENTIFIANT_GITHUB/lrthw`
+3. Réaliser les exercices disponibles sur [le site Learn Ruby the Hard Way](http://learnrubythehardway.org/book/)
 
 Au fur et a mesure de votre progression vous allez créer les fichiers `ex1.rb`, `ex2.rb`, ... dans votre dossier `lrthw`
 
@@ -41,17 +37,17 @@ git config --global user.email "VOTRE EMAIL"
 
 ### Sauvegarder et envoyer son travail sur github
 
-1. Enregistrez votre travail dans git en faisant un commit : 
+* Enregistrez votre travail dans git en faisant un commit (en adaptant en fonctione des fichiers que vous avez dans votre dossier `lrthw`)
 
 ```
 git add ex1.rb ex2.rb ex3.rb
 ```
-(en adaptant en fonctione des fichieris que vous avez dans votre dossier), puis :
+puis :
 
 ```
 git commit -m "Fini les exercices 1 à 3"
 ```
-2. Envoyez votre travail dans votre espace personnel sur github :
+* Envoyez votre travail dans votre espace personnel sur github :
 
 ```
 git push origin master
