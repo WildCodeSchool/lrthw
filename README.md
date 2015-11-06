@@ -1,6 +1,8 @@
 # lrthw
 *Learn ruby the ~~hard~~ __wild__ way !*
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/WildCodeSchool/lrthw?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 ## Prérequis
 
 * un terminal unix (Linux ou OSX)
